@@ -1,0 +1,1 @@
+A program that count word and string.
